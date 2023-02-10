@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **kamleshrahane999@gmail.com https://www.linkedin.com/in/kamlesh-rahane-0a1802190**
 
