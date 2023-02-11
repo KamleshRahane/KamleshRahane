@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamleshrahane&label=Profile%20views&color=0e75b6&style=flat" alt="kamleshrahane" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, At Masai School**
+- 🌱 I’m currently learning **Full Stack Development, At Masai School**
 
 - 💬 Ask me about **Full Stack Development**
 
