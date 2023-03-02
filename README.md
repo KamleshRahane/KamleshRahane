@@ -1,4 +1,4 @@
-![logo](https://github.com/KamleshRahane/KamleshRahane/blob/main/Kamlesh%20Rahane%20(2).png)
+![logo](https://github.com/KamleshRahane/KamleshRahane/blob/main/Kamlesh%20Rahane%20banner.png)
 <h1 align="center">Hi 👋, I'm Kamlesh Rahane</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
